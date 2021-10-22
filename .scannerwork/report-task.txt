@@ -1,0 +1,6 @@
+projectKey=sonatest
+serverUrl=http://127.0.0.1:19000
+serverVersion=9.1.0.47736
+dashboardUrl=http://127.0.0.1:19000/dashboard?id=sonatest
+ceTaskId=AXyndbpYDRxGwfWbY5QK
+ceTaskUrl=http://127.0.0.1:19000/api/ce/task?id=AXyndbpYDRxGwfWbY5QK
